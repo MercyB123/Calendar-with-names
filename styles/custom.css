@@ -1,0 +1,113 @@
+
+
+
+#calWrapper {
+    width: 250px;
+    height: 300px;
+    -moz-border-radius: 24px;
+    -webkit-border-radius: 24px;
+    border-radius: 24px;
+    position: relative;
+    background: #f5efef
+}
+
+#week{
+    float:right;
+    overflow:hidden;
+    margin-left:auto; 
+    margin-right:7px;
+    padding-top: 24px;
+    font-style: italic
+}
+
+
+#year{
+    float:left;
+    margin-left:7px;
+    padding-top: 24px;
+    font-style: italic
+    
+}
+
+#dayOfWeek{
+  height: 50px;
+  background: #ffeb3b;
+  -webkit-border-top-right-radius: 24px;
+  -moz-border-radius-topright: 24px;
+  border-top-right-radius: 24px;
+  -webkit-border-top-left-radius: 24px;
+  -moz-border-radius-topleft: 24px;
+  border-top-left-radius: 24px;
+  width: 100%;
+  text-align: center;
+  font-size: 24px;
+  color: #FFF;
+  line-height: 50px
+}
+
+#dayOfWeek:before {
+    background: #333;
+    height: 1px;
+    width: 1px;
+    content: "";
+    display: block;
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    -moz-border-radius: 6px;
+    -webkit-border-radius: 6px;
+    border-radius: 6px;
+    padding: 4px
+    }
+  
+#dayOfWeek:after {
+    background: #333;
+    height: 1px;
+    width: 1px;
+    content: "";
+    display: block;
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    -moz-border-radius: 6px;
+    -webkit-border-radius: 6px;
+    border-radius: 6px;
+    padding: 4px
+    }
+
+
+#dateNum{
+    text-align: center;
+    font-size: 85px;
+    margin: 3px 0px; 
+    border-bottom: 1px solid#ffeb3b;
+}
+
+#flag{
+    text-align: center
+}
+
+#dateMonth{
+    text-align: center;
+    font-size: 35px;
+}
+
+#theName{
+    text-align: center;
+    font-size: 18px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
