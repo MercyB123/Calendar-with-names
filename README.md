@@ -4,9 +4,9 @@ If a day is a red day or holiady or a weekend, the date font color will be red o
 
 Tools and tech used:-
 
-Ajax/JSON REST API call
-JQuery
-Javascript
-Moment js
-Css and bootstrap for page layout
+Ajax/JSON REST API call, 
+JQuery, 
+Javascript, 
+Moment js, 
+Css and bootstrap for page layout, 
 visual studio code
