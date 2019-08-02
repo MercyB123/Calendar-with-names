@@ -10,3 +10,10 @@ Javascript,
 Moment js, 
 Css and bootstrap for page layout, 
 visual studio code
+
+
+*****************************
+
+App hosted on Netlify
+https://calendar-with-names.netlify.com/
+
