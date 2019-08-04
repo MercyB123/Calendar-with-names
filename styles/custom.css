@@ -1,37 +1,13 @@
-@media screen (min-width: 768px){
-    #calWrapper {
-    height: 350px
-    }
-}
-
 
 #calWrapper {
     width: 250px;
-    height: 380px;
+    height: 300px;
     -moz-border-radius: 24px;
     -webkit-border-radius: 24px;
     border-radius: 24px;
     position: relative;
     background: #f5efef;
     margin: auto
-}
-
-#week{
-    float:right;
-    overflow:hidden;
-    margin-left:auto; 
-    margin-right:7px;
-    padding-top: 55px;
-    font-style: italic
-}
-
-
-#year{
-    float:left;
-    margin-left:7px;
-    padding-top: 55px;
-    font-style: italic
-    
 }
 
 #dayOfWeek{
