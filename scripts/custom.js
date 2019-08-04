@@ -25,9 +25,6 @@ $.getJSON("https://api.dryg.net/dagar/v2.1/2019?callback", function(data) {
   var redDay = data.dagar[day_number]["röd dag"];
   var weekNumber = data.dagar[day_number].vecka;
 
-  $("#year").html(year);
-  $("#week").html("v." + weekNumber);
-
   console.log(redDay);
   console.log(weekNumber);
   console.log(weekday);
