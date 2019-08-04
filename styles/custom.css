@@ -1,4 +1,8 @@
-
+@media (min-width: 768px){
+    #calWrapper {
+    height: 350px
+    }
+}
 
 
 #calWrapper {
