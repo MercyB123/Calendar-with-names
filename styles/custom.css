@@ -1,4 +1,4 @@
-@media (min-width: 768px){
+@media screen (min-width: 768px){
     #calWrapper {
     height: 350px
     }
